@@ -39,7 +39,7 @@ This project involves building a deep learning model to classify music genres fr
 5. **Model Evaluation:**
    - Evaluate the model on test data.
    - Plot training history using matplotlib.
-   - ![alt text](https://github.com/[HayatiYrtgl]/[Music_Genre_Classification]/blob/[branch]/music_classifier.png?raw=true)
+   - ![alt text](https://github.com/[HayatiYrtgl]/[Music_Genre_Classification]/blob/[master]/music_classifier.png?raw=true)
 
 6. **Save Model:**
    - Save the trained model as `Music_Classifier.h5`.
